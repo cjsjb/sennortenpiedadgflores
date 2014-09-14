@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Señor, ten piedad"
-	author = "P. Gerardo Flores"
+	composer = "P. Gerardo Flores"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -30,15 +30,20 @@ globalTempo = {
 		\include "sennortenpiedadgflores-acordes.inc"
 		\new StaffGroup <<
 			\include "sennortenpiedadgflores-soprano.inc"
-		%	\include "sennortenpiedadgflores-mezzo.inc"
+			\include "sennortenpiedadgflores-mezzo.inc"
+			\include "sennortenpiedadgflores-tenor.inc"
 		>>
-		%\include "sennortenpiedadgflores-violin.inc"
+		\new StaffGroup <<
+			\include "sennortenpiedadgflores-violin.inc"
+			\include "sennortenpiedadgflores-viola.inc"
+			\include "sennortenpiedadgflores-cello.inc"
+		>>
 
 	>>
 
 	\layout {
 		\context {
-			\RemoveEmptyStaffContext
+			%\RemoveEmptyStaffContext
 		}
 	}
 }
