@@ -4,6 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Señor, ten piedad"
+	instrument = "Soprano"
 	composer = "P. Gerardo Flores"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
