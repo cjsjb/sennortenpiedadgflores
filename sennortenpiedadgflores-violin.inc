@@ -15,9 +15,15 @@
 		\clef "treble"
 
 		\key c \major
-		g' 1  |
-		g' 1  |
-		R1*4  | s1*4  |
+		f' 2 e'  |
+		f' 2 e'  |
+		R1*3  |
+		r2 r8 b' a' g'  |
+		f' 2 e'  |
+		f' 2 g' 4 a' 8 b'  |
+		c'' 2 d''  |
+%% 10
+		b' 1  |
 		\key d \major
 		r2 r8 e' a' d''  |
 		g'' 4 fis'' e'' d''  |
@@ -28,8 +34,17 @@
 		g'' 4 fis'' e'' fis''  |
 		g'' 1  |
 		\key c \major
+		g'' 1 ~  |
 		g'' 1  |
-		s1*1  | R1*4  | s1*5  |
+%% 20
+		R1*3  |
+		r2 r8 b' a' g'  |
+		f' 2 e'  |
+%% 25
+		f' 2 g' 4 a' 8 b'  |
+		c'' 2 b'  |
+		b' 1  |
+		cis'' 1  |
 		\bar "|."
 	}
 >>

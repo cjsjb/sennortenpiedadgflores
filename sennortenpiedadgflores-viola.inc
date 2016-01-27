@@ -17,7 +17,13 @@
 		\key c \major
 		f' 2 e'  |
 		d' 2 e'  |
-		R1*4  | s1*4  |
+		R1*3  |
+		r2 r8 b a g  |
+		f 2 e  |
+		f 2 g 4 a 8 b  |
+		e' 2 fis'  |
+%% 10
+		d' 1  |
 		\key d \major
 		r2 r8 e a d'  |
 		g' 4 fis' e' d'  |
@@ -28,8 +34,17 @@
 		g' 4 fis' e' d'  |
 		b 1  |
 		\key c \major
+		e' 1 ~  |
 		e' 1  |
-		s1*1  | R1*4  | s1*5  |
+%% 20
+		R1*3  |
+		r2 r8 b a g  |
+		f 2 e  |
+%% 25
+		f 2 g 4 a 8 b  |
+		e' 2 fis'  |
+		d' 1  |
+		e' 1  |
 		\bar "|."
 	}
 >>
