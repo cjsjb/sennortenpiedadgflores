@@ -28,7 +28,6 @@
 		d 2 r  |
 		\key d \major
 		g 4 ( fis ) a, 2  |
-		\key d \major
 		g 4 ( fis ) a, 2  |
 		b, 4 cis 8 d ~ d 4 r  |
 		cis 4 d 8 e ~ e 4 r  |
