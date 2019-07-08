@@ -5,7 +5,7 @@
 \header {
 	title = "Señor, ten piedad"
 	instrument = "Soprano + Violín"
-	composer = "P. Gerardo Flores"
+	composer = "P. Gerardo Javier Flores Cárdenas"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
