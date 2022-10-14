@@ -28,7 +28,6 @@
 		b 2 r  |
 		\key d \major
 		g' 4 ( fis' ) a 2  |
-		\key d \major
 		d' 4 ( cis' ) a 2  |
 		g 4 a 8 b ~ b 4 r  |
 		a 4 b 8 cis' ~ cis' 4 r  |
