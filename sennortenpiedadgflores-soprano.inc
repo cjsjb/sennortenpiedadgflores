@@ -54,7 +54,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Se -- ñor, Se -- ñor, __ ten pie -- dad.
 		Se -- ñor, Se -- ñor, __ ten pie -- dad.
 

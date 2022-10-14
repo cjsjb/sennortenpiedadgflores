@@ -53,7 +53,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		Se -- ñor, Se -- ñor, __ ten pie -- dad.
 		Se -- ñor, Se -- ñor, __ ten __ pie __ dad.
 

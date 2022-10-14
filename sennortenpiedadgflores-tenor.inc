@@ -52,7 +52,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		Se -- ñor, Se -- ñor, __ ten pie -- dad.
 		Se -- ñor, Se -- ñor, __ ten pie -- dad.
 
